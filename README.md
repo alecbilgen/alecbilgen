@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alecbilgen
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently starting my journey in Data Analytics
 - 💞️ I’m looking to collaborate on sql and python
 - 📫 You can reach me here: https://www.linkedin.com/in/alecarbilgenoglu
 
